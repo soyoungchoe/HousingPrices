@@ -1,5 +1,7 @@
 
 # Housing Prices Competition for Kaggle Learners
+This is the try-out competition after finishing the intro to machine learning courses. I applied all of the method that I learned from the courses such as Random Forest Regressor, Mean Absolute Error, and Train Test Split. Using different values of the houses in the data given, I predicted the sales price of the houses in the city. 
+
 ## Competition Description
 Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
 
